@@ -2,6 +2,13 @@
 
 Program umożliwia wczytywanie danych z pliku, sortowanie wybranym algorytmem, zapisywanie wyników oraz wykonywanie benchmarków dla różnych konfiguracji.
 
+## Zaimplementowane algorytmy
+ Insertion Sort - sortowanie przez wstawianie
+ Heap Sort - sortowanie przez kopcowanie
+ Shell Sort - sortowanie shella z wyborem sekwencji
+ Quick Sort - sortowanie szybkie z wyborem pivota
+ Drunk Student Sort - sortowanie przez wstawianie z popełnianiem błędów, a następnie ich korekcją
+
 ## Tryby działania
 Program działa w trzech trybach:
 
